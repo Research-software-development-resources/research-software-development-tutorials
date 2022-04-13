@@ -65,11 +65,7 @@ html_static_path = ['_static']
 # readthedocs to host the docs using its default configuration.
 master_doc = 'index'
 
-html_context = {
-    'css_files': [
-        '_static/theme_overrides.css',  # override wide tables in RTD theme
-        ],
-     }
+html_css_files = ['theme_overrides.css']  # override wide tables in RTD theme and add orange color
 
 graphviz_output_format = "svg"
 
