@@ -9,10 +9,8 @@ Open-source Sphinx documentation can be hosted online using the ReadTheDocs (`re
 
 The following guides show how to host your Sphinx documentation on ReadTheDocs.org:
 
-.. toctree::
-   :maxdepth: 3
-
-   readthedocs
+.. include:: /beginner/documenting_code/readthedocs.md
+   :parser: myst_parser.sphinx_
 
 Closed-source documentation
 ---------------------------

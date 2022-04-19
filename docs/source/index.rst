@@ -23,7 +23,15 @@ There are many tutorials available on the web for understanding software develop
    beginner
    intermediate
    advanced
+   faq
    contributing
+
+Tools for running these tutorials
+=================================
+To assist with running these tutorials, we have setup a container-based development environment to help researchers develop software for their projects. This development environment includes commonly used IDEs including PyCharm, Visual Studio Code, and JupyterLab and can be run on Linux, Mac, or Windows. This provides a replicable sandboxed environment for you to develop your software. For more information, see the software development environment section of the beginner tutorials.
+
+The instructions for running these IDEs within a container can be found in the `software development container documentation <https://dev-container.readthedocs.io/en/latest/introduction.html>`_.
+
 
 Contributors
 ------------

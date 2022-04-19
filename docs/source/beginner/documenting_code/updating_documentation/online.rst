@@ -7,7 +7,7 @@ You can directly edit existing documentation online, for example on github. This
 3. In the project, select the file that you wish to edit (e.g. a file ending with .md (Markdown) or .rst (reST)). The rendered preview of the file will appear.
 4. Click on the pencil button as shown in the screenshot below to edit the file.
 
-  .. figure:: editing_docs_on_github.png
+  .. figure:: /beginner/documenting_code/updating_documentation/editing_docs_on_github.png
     :width: 600
     :class: with-shadow
     :figclass: align-center
@@ -16,7 +16,7 @@ You can directly edit existing documentation online, for example on github. This
 
   This will open the editor mode showing the file in markup format.
 
-  .. figure:: edit_mode_on_github.png
+  .. figure:: /beginner/documenting_code/updating_documentation/edit_mode_on_github.png
     :width: 600
     :class: with-shadow
     :align: center
@@ -27,7 +27,7 @@ You can directly edit existing documentation online, for example on github. This
 5. Make edits.
 6. Preview edits by clicking on the Preview tab.
 
-  .. figure:: previewing_doc_edits_on_github.png
+  .. figure:: /beginner/documenting_code/updating_documentation/previewing_doc_edits_on_github.png
     :width: 600
     :class: with-shadow
     :align: center
@@ -41,7 +41,7 @@ You can directly edit existing documentation online, for example on github. This
 
   2. Add an optional extended description.
 
-  .. figure:: committing_changes_on_github.png
+  .. figure:: /beginner/documenting_code/updating_documentation/committing_changes_on_github.png
     :width: 600
     :class: with-shadow
     :align: center

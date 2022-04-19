@@ -53,7 +53,7 @@ JupyterLab
 ==========
 JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data. JupyterLab is flexible: configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning. JupyterLab is extensible and modular: write plugins that add new components and integrate with existing ones.
 
-  .. figure:: https://jupyter.org/assets/labpreview.png
+  .. figure:: https://jupyter.org/assets/homepage/labpreview.webp
     :width: 700
     :align: center
     :figclass: align-center
@@ -71,7 +71,7 @@ Google Colab
 ============
 `Google Colaboratory <https://colab.research.google.com/>`_ or “Colab” for short is a **free** Python Jupyter notebook environment from Google Research that runs entirely in the cloud. There is no setup process. The notebooks that you create can be simultaneously edited by you and your collaborators — similar to how you can collaboratively edit documents in Google Docs. It is especially well suited to machine learning, data analysis and education and **provides free access to computing resources including GPUs (Nvidia K80s, T4s, P4s and P100s)**.
 
-  .. figure:: google_colab_ide.png
+  .. figure:: /_static/development_environments/google_colab_ide.png
     :width: 700
     :align: center
     :figclass: align-center
@@ -89,7 +89,7 @@ The `Binder Project <https://mybinder.org/>`_ allow you to package and share int
 
 This allows you to take a code repository e.g .on Github that may contain Jupyter notebooks, and open those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
 
-  .. figure:: mybinder.png
+  .. figure:: /_static/development_environments/mybinder.png
     :width: 700
     :align: center
     :figclass: align-center
