@@ -1,10 +1,7 @@
 ==================
 The Linux terminal
 ==================
-
-Introduction
-============
-We will be interacting with Linux through a command-line interface (also called a terminal or shell). Familiarise yourself with the terminal using the following guides:
+If you use Linux, you will notice that tasks are commonly carried out through a command-line interface (also called a terminal or shell). Familiarise yourself with the terminal using the following guides:
 
 - `Ubuntu.com guide <https://ubuntu.com/tutorials/command-line-for-beginners#1-overview>`_
 - `Linux journey guide <https://linuxjourney.com/lesson/the-shell>`_

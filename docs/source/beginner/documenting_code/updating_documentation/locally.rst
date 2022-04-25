@@ -17,7 +17,7 @@ This section describes how to add a sphinx build configuration to PyCharm:
 
 4. Click the :guilabel:`+` → button on the top left of the window to add a new configuration.
 
-  .. figure:: pycharm_edit_configurations.png
+  .. figure:: /beginner/documenting_code/updating_documentation/pycharm_edit_configurations.png
     :width: 300
     :class: with-shadow
     :align: center
@@ -27,7 +27,7 @@ This section describes how to add a sphinx build configuration to PyCharm:
 
 5. Select :guilabel:`python docs` → :guilabel:`sphinx task`
 
-  .. figure:: pycharm_add_sphinx_task.png
+  .. figure:: /beginner/documenting_code/updating_documentation/pycharm_add_sphinx_task.png
     :width: 300
     :class: with-shadow
     :align: center
@@ -47,7 +47,7 @@ This section describes how to add a sphinx build configuration to PyCharm:
 
   5. :guilabel:`Options`: ``-E -a`` (This options forces rebuild of html).
 
-  .. figure:: pycharm_final_sphinx_configuration.png
+  .. figure:: /beginner/documenting_code/updating_documentation/pycharm_final_sphinx_configuration.png
     :width: 700
     :class: with-shadow
     :align: center
@@ -63,7 +63,7 @@ This section describes how to add a sphinx build configuration to PyCharm:
 
   Note that Python provides a markdown plugin that allows for dynamic previewing of markdown files as shown in the figure below:
 
-  .. figure:: pycharm_dynamic_markdown_preview.png
+  .. figure:: /beginner/documenting_code/updating_documentation/pycharm_dynamic_markdown_preview.png
     :width: 700
     :class: with-shadow
     :align: center

@@ -9,10 +9,7 @@ Once you have created the documentation, there are a number of ways to allow oth
 .. important::
    See the best practices guide for more information on the how to contribute software projects.
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
 
-   updating_documentation/online
-   updating_documentation/locally
+.. include:: /beginner/documenting_code/updating_documentation/online.rst
+.. include:: /beginner/documenting_code/updating_documentation/locally.rst
 

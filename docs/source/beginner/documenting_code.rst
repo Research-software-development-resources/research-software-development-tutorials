@@ -14,9 +14,17 @@ The objectives of this tutorial are to familiarise yourself with:
 
 - methods for contributing to documentation.
 
+Here are some examples of open-source code documented with Sphinx and hosted on the web.
+
+- https://opencmiss-iron-tutorials.readthedocs.io
+- http://libcellml.readthedocs.io/
+- http://morphic.readthedocs.io/
+- https://adv-prodcon.readthedocs.io/
+- https://abi-eit.github.io/tetrahedralizer
+
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Contents
 
    documenting_code/introduction
    documenting_code/languages
@@ -25,5 +33,3 @@ The objectives of this tutorial are to familiarise yourself with:
    documenting_code/hosting_documentation
    documenting_code/updating_documentation
    documenting_code/source_code
-
-

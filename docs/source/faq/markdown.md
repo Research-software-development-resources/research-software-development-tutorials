@@ -1,3 +1,4 @@
+# Markdown with Sphinx FAQ
 ## 1. How to enable support for Markdown files with Sphinx?
 By default, sphinx recognises [RestructuredText](https://en.wikipedia.org/wiki/ReStructuredText). In order to use Markdown in Sphinx, an extension needs to be added to Sphinx. Sphinx supports an unambiguous version of Markdown called [CommonMark](https://commonmark.org/) which addresses many of [Markdown's limitations](https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
 

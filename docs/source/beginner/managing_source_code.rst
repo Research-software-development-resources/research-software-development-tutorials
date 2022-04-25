@@ -12,8 +12,8 @@ The objectives of this tutorial are to familiarise yourself with:
 
 - manging version control of local code repositories from Gitkraken (GUI) and the command line.
 
-Introduction
-============
+Version Control
+===============
 Version control is the practice of tracking and managing changes to software code (similar to tracking changes in a Microsoft Word document). Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members :cite:`atlassian_what_is_version_control`.
 
 `Git <https://git-scm.com/>`_ is a version control system that is used to track changes that are made to a file or project. It was made by Linus Trovalds (the creator of the Linux operating system).
@@ -41,5 +41,5 @@ If applicable, you can signup for an educational account (students and teachers)
 References
 ==========
 
-.. bibliography:: ../refs.bib
+.. bibliography:: /refs.bib
   :style: alpha

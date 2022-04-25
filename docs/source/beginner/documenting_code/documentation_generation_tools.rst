@@ -12,12 +12,6 @@ Rather than having to manually open reStructuredText or Markdown text files indi
 
 This documentation can then be hosted on the web for others to access. For example, third-party services such as `ReadTheDocs.org <https://readthedocs.org/>`_ provides free hosting of open-source documentation (see the Hosting documentation Section for more information). Other options are available for hosting private source code.
 
-Here are some examples of open-source code documented with Sphinx and hosted on ReadTheDocs.
-
-- https://opencmiss-iron-tutorials.readthedocs.io
-- http://libcellml.readthedocs.io/
-- http://morphic.readthedocs.io/
-
 
 Extra reading
 -------------
@@ -26,5 +20,5 @@ To find out about the differences between reST, docutils, readthedocs, sphinx, a
 References
 ----------
 
-.. bibliography:: ../../refs.bib
+.. bibliography:: /refs.bib
   :style: alpha

@@ -1,7 +1,6 @@
 =====================
 Programming languages
 =====================
-
 This section describes commonly used programming languages used in research projects.
 
 Python
@@ -30,10 +29,8 @@ Python virtual environments
 
 Useful commands
 ---------------
-.. toctree::
-   :numbered: 0
-
-   python/useful_commands
+See here for a list of useful python commands:
+:ref:`/faq/python/useful_commands.md`
 
 Matlab
 ======

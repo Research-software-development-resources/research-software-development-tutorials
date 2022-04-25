@@ -1,3 +1,5 @@
+# reStructuredText with Sphinx FAQ
+
 Click on headings to be directed to answers/more information (if available).
 
 ## [1. How to comment?](https://stackoverflow.com/questions/4783814/how-to-comment-a-string-in-restructured-text)
@@ -240,7 +242,7 @@ GraphViz is an extension that can be used to programmatically add graphs/diagram
    }
 ```
 This will render as:
-![GraphViz simple example.](./graphviz_simple_example.png)
+![GraphViz simple example.](../beginner/documenting_code/graphviz_simple_example.png)
 
 ### 11.3. Complex example
 ```rest

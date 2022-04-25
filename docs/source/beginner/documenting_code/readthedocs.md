@@ -1,5 +1,5 @@
 ## Adding repositories in your Github account to ReadTheDocs.org
-See the following `guide <https://docs.readthedocs.io/en/stable/intro/import-guide.html>`_ for a set of instructions on how to host your open-source Sphinx documentation on ReadTheDocs.org. It will automatically setup a webhook when you import documentation from Github, Bitbucket, or GitLab.
+See [this guide](https://docs.readthedocs.io/en/stable/intro/import-guide.html) for a set of instructions on how to host your open-source Sphinx documentation on ReadTheDocs.org. It will automatically setup a webhook when you import documentation from Github, Bitbucket, or GitLab.
 
 ## Adding repositories in a Github organisation to ReadTheDocs.org
 Your ReadTheDocs account may not be able to see repositories within a Github organisation you belong to. To address this issue:

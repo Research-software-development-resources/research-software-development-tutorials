@@ -39,21 +39,7 @@ From IDEs
 For more information on how to build documentation from IDEs such as PyCharm, see the ``Updating documentation`` Section of this tutorial.
 
 FAQs
-====
-This section provides documentation on how to use reStructuredText and Markdown with Sphinx.
+----
+:ref:`/faq/rest.md`
 
-reStructuredText with Sphinx FAQ
---------------------------------
-
-.. toctree::
-   :maxdepth: 3
-
-   rest
-
-Markdown with Sphinx FAQ
-------------------------
-
-.. toctree::
-   :maxdepth: 3
-
-   markdown
+:ref:`/faq/markdown.md`
