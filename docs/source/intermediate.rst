@@ -9,3 +9,4 @@ Intermediate tutorials
 
    intermediate/google_api
    intermediate/documenting_source_code_with_doxygen
+   intermediate/numba
